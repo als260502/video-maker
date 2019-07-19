@@ -16,7 +16,6 @@ async function robot(){
             sentence.images = await fetchGoogleAndReturnImageLinks(query)
             sentence.googleSeachQuery = query
         }
-
     }
     
     async function fetchGoogleAndReturnImageLinks(query){
@@ -34,7 +33,6 @@ async function robot(){
         })
 
         return imagesUrl
-
     }
        
 }
