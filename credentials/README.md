@@ -23,3 +23,13 @@ File `watson-nlu.json`
   "url": "https://gateway-syd.watsonplatform.net/natural-language-understanding/api"
 }
 ```
+
+## Google Custom Seatch
+
+File `algorithmia.json`
+
+```
+{
+    "apiKey": "AIzaSyA0wMRddFvyZsKVkVVyt98YrCc3UiLV6VU"
+}
+``` 
