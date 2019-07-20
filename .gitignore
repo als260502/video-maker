@@ -68,3 +68,14 @@ content.json
 # Content
 content/*.png
 content/*.jpg
+content/*.js
+content/*.mov
+content/*.avi
+
+# Tamplates
+Logs de template.aep
+Salvamento automático do Adobe After Effects
+Adobe After Effects Auto-Save
+template_AME
+template.aep Logs
+.DS_Store
